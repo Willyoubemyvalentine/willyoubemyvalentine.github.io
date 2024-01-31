@@ -39,7 +39,7 @@ function removeElements() {
     newImage.style.height = 'auto'
     container.appendChild(newImage);
     const newText = document.createElement('p');
-    newText.textContent = 'Slayyyyyyyy 💅 see you on the 14th (preferably sooner)';
+    newText.textContent = 'Slayyyyyyyy 💅 see you on the 14th x';
     newText.style.color = 'white';
     newText.style.fontSize = '48px';
     container.appendChild(newText);
